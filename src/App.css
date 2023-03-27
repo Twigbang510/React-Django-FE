@@ -27,7 +27,14 @@
 .App-link {
   color: #61dafb;
 }
-
+.category_checkbox{
+  display: flex;
+  flex-direction: column;
+}
+.flag_checkbox{
+  display: flex;
+  flex-direction: column;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
